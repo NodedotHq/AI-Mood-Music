@@ -1,0 +1,8 @@
+streamlit==1.25.0
+opencv-python==4.8.1.78
+deepface==0.0.88
+tensorflow==2.20.0
+tf-keras==2.20.0
+pygame==2.5.2
+numpy==1.26.2
+Pillow==10.1.0
